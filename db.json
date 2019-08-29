@@ -1,0 +1,75 @@
+{
+  "cardsets": [
+    {
+      "id": 1,
+      "title": "test 1",
+      "description": "description 1"
+    },
+    {
+      "id": 2,
+      "title": "test 2",
+      "description": "description 2"
+    },
+    {
+      "id": 3,
+      "title": "test 3",
+      "description": "description 3"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "cardsetId": 1,
+      "side_a": "side a 1",
+      "side_b": "side b 1"
+    },
+    {
+      "id": 2,
+      "cardsetId": 1,
+      "side_a": "side a 2",
+      "side_b": "side b 2"
+    },
+    {
+      "id": 3,
+      "cardsetId": 1,
+      "side_a": "side a 3",
+      "side_b": "side b 3"
+    },
+    {
+      "id": 4,
+      "cardsetId": 2,
+      "side_a": "side a 4",
+      "side_b": "side b 4"
+    },
+    {
+      "id": 5,
+      "cardsetId": 2,
+      "side_a": "side a 5",
+      "side_b": "side b 5"
+    },
+    {
+      "id": 6,
+      "cardsetId": 2,
+      "side_a": "side a 6",
+      "side_b": "side b 6"
+    },
+    {
+      "id": 7,
+      "cardsetId": 3,
+      "side_a": "side a 7",
+      "side_b": "side b 7"
+    },
+    {
+      "id": 8,
+      "cardsetId": 3,
+      "side_a": "side a 8",
+      "side_b": "side b 8"
+    },
+    {
+      "id": 9,
+      "cardsetId": 3,
+      "side_a": "side a 9",
+      "side_b": "side b 9"
+    }
+  ]
+}
